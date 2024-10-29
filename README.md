@@ -1,31 +1,22 @@
 <p align="center">
-  <img src="logo.png" alt="logo"/>
+  <img width="200" src="notion_avatar2.png" alt="logo"/>
 </p>
 
-# Learn Python 3
+# Learn Python with Codefez
 
 ## Introduction
 
-This repository contains a collection of materials for teaching/learning Python 3 (3.10+).
+This repository contains a collection of materials for teaching/learning Python 3 (3.10+). They have been modified from the resources of [Jerry-git](https://github.com/jerry-git/learn-python3/) to whom I owe many thanks 🙏🏼.
+
+These are my Key stage 5 resources. My Keystage 4 resources can be found [here](https://COMINGSOON.com). 
 
 #### Requirements
-* Have Python 3.10 or newer installed. You can check the version by typing `python3 --version` in your command line. You can download the latest Python version from [here](https://www.python.org/downloads/).
-* Have [Jupyter Notebook installed](http://jupyter.readthedocs.io/en/latest/install.html). `pip install jupyter` is sufficient in most cases.
+* Have Python 3.10 or newer installed. You can check the version by typing `python3 --version` in your command line. You can download the latest Python version from [here](https://www.python.org/downloads/). 
+  
+or 
+  
 
-If you can not access Python and/or Jupyter Notebook on your machine, you can still follow the web based materials. However, you should be able to use Jupyter Notebook in order to complete the exercises.
-
-#### Usage (locally)
-
-1. Clone or download this repository.
-2. Run `jupyter notebook` command in your command line in the repository directory.
-3. Jupyter Notebook session will open in the browser and you can start navigating through the materials.
-
-#### Usage (Binder in the cloud)
-
-You can also just use [Binder:](https://mybinder.org/) By clicking of this [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jerry-git/learn-python3/master) badge, the project is opened in a Jupyter instance in the cloud and you can then navigate to the folders containing the notebooks and start them each and interactively explore them! 
-
-#### Contributing
-See [contributing](https://github.com/jerry-git/learn-python3/blob/master/CONTRIBUTING.md) guide.
+* you can use the Google Colab links next to each resource as a simple way to code online. Look for the ![Colab](https://colab.research.google.com/assets/colab-badge.svg) icon
 
 
 ## Beginner
@@ -40,7 +31,7 @@ See [contributing](https://github.com/jerry-git/learn-python3/blob/master/CONTRI
 9. Lists [[slides]](https://docs.google.com/presentation/d/1dT42DoNn2r5rhZRlcwFGmP_IMniB8qIRpnFHMtSOpd0/edit?usp=sharing) [[exercise]](http://nbviewer.jupyter.org/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/exercises/04_lists_exercise.ipynb) --> <a href="https://colab.research.google.com/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/exercises/04_lists_exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 10. Functions [[slides]](https://docs.google.com/presentation/d/140DmfSm8lQ2fN4H63yZhD8ZRBhVtFQLirH5cvSmizC4/edit?usp=sharing) [[exercises]](http://nbviewer.jupyter.org/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/exercises/05_functions_exercise.ipynb) --> <a href="https://colab.research.google.com/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/exercises/05_functions_exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 11. Cluedo template [[slides]](https://docs.google.com/presentation/d/1Ece2IIOSVGtcLmQmWRuf0htyXS3M631NAoE8X4iQOJ0/edit?usp=sharing) [[exercises]](http://nbviewer.jupyter.org/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/exercises/05_functions_cluedo_template.ipynb) --> <a href="https://colab.research.google.com/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/exercises/05_functions_cluedo_template.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-12. [Dictionaries](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/05_dictionaries.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/05_dictionaries.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/05_dictionaries_exercise.ipynb)
+12. Dictionaries [Slides](https://docs.google.com/presentation/d/1gJ0IUxOKRII2nFZB41pUCoiFIE-sl0e6F-UpNAzakns/edit?usp=sharing) [[notebook]](http://nbviewer.jupyter.org/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/notebooks/06_dictionaries.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/exercises/06_dictionaries_exercise.ipynb) --> <a href="https://colab.research.google.com/github/BethsGrammar/learn-python3/blob/master/notebooks/beginner/exercises/06_dictionaries_exercise.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
 13. [For loops](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/06_for_loops.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/06_for_loops.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/06_for_loops_exercise.ipynb)
 14. [Functions](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/07_functions.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/07_functions.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/07_functions_exercise.ipynb)
 15. [Testing with pytest - part 1](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/08_testing1.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/08_testing1.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/08_testing1_exercise.ipynb)

@@ -1,0 +1,182 @@
+[
+	{
+		"first_name": "Fulton",
+		"surname": "Castro",
+		"dob": "16/12/97",
+		"shooting": 15,
+		"passing": 16,
+		"tackling": 14,
+		"skill": 20
+	},
+	{
+		"first_name": "Cedric",
+		"surname": "Patton",
+		"dob": "02/04/00",
+		"shooting": 4,
+		"passing": 12,
+		"tackling": 1,
+		"skill": 15
+	},
+	{
+		"first_name": "Norman",
+		"surname": "Eaton",
+		"dob": "24/06/98",
+		"shooting": 4,
+		"passing": 6,
+		"tackling": 10,
+		"skill": 6
+	},
+	{
+		"first_name": "Bernard",
+		"surname": "Townsend",
+		"dob": "05/04/99",
+		"shooting": 6,
+		"passing": 4,
+		"tackling": 11,
+		"skill": 2
+	},
+	{
+		"first_name": "Zeus",
+		"surname": "Dillon",
+		"dob": "14/04/98",
+		"shooting": 16,
+		"passing": 9,
+		"tackling": 16,
+		"skill": 1
+	},
+	{
+		"first_name": "Conan",
+		"surname": "Rutledge",
+		"dob": "10/02/98",
+		"shooting": 7,
+		"passing": 4,
+		"tackling": 4,
+		"skill": 18
+	},
+	{
+		"first_name": "Erich",
+		"surname": "Carpenter",
+		"dob": "09/04/02",
+		"shooting": 10,
+		"passing": 18,
+		"tackling": 7,
+		"skill": 7
+	},
+	{
+		"first_name": "Nigel",
+		"surname": "Gillespie",
+		"dob": "26/02/97",
+		"shooting": 15,
+		"passing": 17,
+		"tackling": 10,
+		"skill": 6
+	},
+	{
+		"first_name": "Zahir",
+		"surname": "George",
+		"dob": "07/03/04",
+		"shooting": 4,
+		"passing": 16,
+		"tackling": 19,
+		"skill": 17
+	},
+	{
+		"first_name": "Chase",
+		"surname": "York",
+		"dob": "29/02/00",
+		"shooting": 16,
+		"passing": 13,
+		"tackling": 9,
+		"skill": 14
+	},
+	{
+		"first_name": "Leo",
+		"surname": "King",
+		"dob": "04/06/97",
+		"shooting": 13,
+		"passing": 12,
+		"tackling": 2,
+		"skill": 17
+	},
+	{
+		"first_name": "Keane",
+		"surname": "Atkins",
+		"dob": "02/01/03",
+		"shooting": 15,
+		"passing": 19,
+		"tackling": 9,
+		"skill": 6
+	},
+	{
+		"first_name": "Ryan",
+		"surname": "Benson",
+		"dob": "06/11/97",
+		"shooting": 3,
+		"passing": 2,
+		"tackling": 3,
+		"skill": 19
+	},
+	{
+		"first_name": "Dorian",
+		"surname": "Romero",
+		"dob": "21/03/00",
+		"shooting": 4,
+		"passing": 7,
+		"tackling": 20,
+		"skill": 11
+	},
+	{
+		"first_name": "Cedric",
+		"surname": "Gray",
+		"dob": "27/02/98",
+		"shooting": 8,
+		"passing": 3,
+		"tackling": 16,
+		"skill": 16
+	},
+	{
+		"first_name": "Guy",
+		"surname": "Dean",
+		"dob": "01/02/04",
+		"shooting": 13,
+		"passing": 20,
+		"tackling": 9,
+		"skill": 16
+	},
+	{
+		"first_name": "Zachary",
+		"surname": "Williamson",
+		"dob": "07/01/98",
+		"shooting": 14,
+		"passing": 11,
+		"tackling": 13,
+		"skill": 10
+	},
+	{
+		"first_name": "Tyrone",
+		"surname": "Paul",
+		"dob": "17/03/04",
+		"shooting": 5,
+		"passing": 9,
+		"tackling": 7,
+		"skill": 17
+	},
+	{
+		"first_name": "Kibo",
+		"surname": "Dunn",
+		"dob": "21/04/99",
+		"shooting": 3,
+		"passing": 18,
+		"tackling": 16,
+		"skill": 18
+	},
+	{
+		"first_name": "Garrison",
+		"surname": "Hunt",
+		"dob": "22/04/97",
+		"shooting": 11,
+		"passing": 5,
+		"tackling": 5,
+		"skill": 8
+	}
+]
