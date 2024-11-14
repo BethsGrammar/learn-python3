@@ -46,8 +46,10 @@ or
 
 
 
+## More tasks 
+These are tasks from the original notebook by Professor Jerry which I have not touched. 
 
-#### Idiomatic Python
+### Idiomatic Python
 Python is a powerful language which contains many features not presented in most other programming languages. Idiomatic section will cover some of these Pythonic features in detail. These materials are especially useful for people with background in other programming languages.
 
 1. [Idiomatic loops](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/01_idiomatic_loops.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/01_idiomatic_loops.ipynb)
@@ -66,6 +68,3 @@ A list of best development practices for Python projects. Most of the practices 
 #### General topics
 1. [Goodies of the Standard Library - part 2](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/01_std_lib2.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/01_std_lib2.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/exercises/01_std_lib2_exercise.ipynb)
 
-
-## Credits
-* Logo: Abdur-Rahmaan Janhangeer, [@Abdur-rahmaanJ](https://github.com/Abdur-rahmaanJ)
