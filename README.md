@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repository contains a collection of materials for teaching/learning Python 3 (3.10+). They have been modified from the resources of [Jerry-git](https://github.com/jerry-git/learn-python3/) to whom I owe many thanks 🙏🏼.
+This repository contains a collection of materials for teaching/learning Python 3 (3.10+). They have been modified from the resources of [Jerry Pussinen](https://github.com/jerry-git/learn-python3/) to whom I owe many thanks 🙏🏼.
 
 Since [replit.com](https://replit.com) went the way of extreme freemium 💀 and many school network technicians will not allow installing of Python directly on school systems as security measure, Jupyter notebooks offer a good alternative to an online IDE.
 
